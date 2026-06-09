@@ -15,7 +15,7 @@
     <description>AI-powered Interview Simulator Platform Backend</description>
 
     <properties>
-        <java.version>17</java.version>
+        <java.version>25</java.version>
         <spring-ai.version>1.0.0-M1</spring-ai.version>
     </properties>
 
